@@ -12,6 +12,6 @@ An example of this script used in the wild [is here](https://codeberg.org/madskj
 
 Open a terminal in the root of your quark's folder.
 
-If you don't have a cliff config, run `git  cliff --init` to generate the .toml format config file it uses. This is specific to your quark.
+If you don't have a cliff config, the script will run `git  cliff --init` to generate the .toml format config file it uses. This is specific to your quark.
 
 Then, from the root of your quark's folder, run `quark_update 0.5` to update your quark to version 0.5.
