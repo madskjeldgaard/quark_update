@@ -14,4 +14,4 @@ Open a terminal in the root of your quark's folder.
 
 If you don't have a cliff config, the script will run `git  cliff --init` to generate the .toml format config file it uses. This is specific to your quark.
 
-Then, from the root of your quark's folder, run `quark_update 0.5` to update your quark to version 0.5.
+Then, from the root of your quark's folder, run `quark_update 0.5` to update your quark to version 0.5. This will edit your quark file to reflect this version, set the git tag and output a `CHANGELOG.md` file.
